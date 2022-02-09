@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\arcti\\Desktop\\neolightningtalks\\neolightningtalks.csproj",
-      "projectName": "neolightningtalks",
-      "projectPath": "c:\\Users\\arcti\\Desktop\\neolightningtalks\\neolightningtalks.csproj",
+      "projectUniqueName": "C:\\Users\\arcti\\Desktop\\neolightningtalks\\lightningtalks.csproj",
+      "projectName": "lightningtalks",
+      "projectPath": "C:\\Users\\arcti\\Desktop\\neolightningtalks\\lightningtalks.csproj",
       "packagesPath": "C:\\Users\\arcti\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\arcti\\Desktop\\neolightningtalks\\obj\\",
+      "outputPath": "C:\\Users\\arcti\\Desktop\\neolightningtalks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arcti\\AppData\\Roaming\\NuGet\\NuGet.Config"
