@@ -1,0 +1,197 @@
+12/14/2018/,Art "450 Volts" Doler/,The Milgram Experiments: Misunderstanding Power & Coercion
+12/14/2018/,Jeren Hicks/,Retrospective for your retrospective
+12/14/2018/,Jeren Hicks/,Dinosaur LIES
+7/26/2019/,Kimo/,Sentiment Analysis of Basecamp (why so angry)
+7/26/2019/,Melanie/,Psychological Safety
+7/26/2019/,Michelle Weeks/,Type 1
+7/26/2019/,Jeren Hicks/,My Time Volunteering at Girls Inc
+9/21/2018/,Nick Wenner/,Maximizing your IDE
+9/21/2018/,Steve Miller/,$ How to make a billion bucks $
+9/21/2018/,Mandi and Ted/,Mandi & Ted's conference practice run
+9/21/2018/,Mandi and Ted/,Mandi & Ted (cont'd)
+10/18/2019/,Steve Miller/,Tech-Down Experiment
+10/18/2019/,Jeren Hicks/,Becoming a PM, What I Learned
+10/18/2019/,Jeren Hicks/,Becoming a PM, What I Learned
+9/3/2021/,Mike Macaulay/,DNA is a code
+9/3/2021/,Jeremy Glasser/,Who wants to be a millionaire? (part 1)
+9/3/2021/,Andrew Sharp/,Where are all the Aliens?
+9/3/2021/,Mark Lucas/,My Journey with Beat Saber VR
+4/3/2020/,TBD/,Carson Deep Dive
+4/3/2020/,TBD/,Carson Deep Dive
+4/3/2020/,TBD/,Carson Deep Dive
+4/3/2020/,TBD/,Carson Deep Dive
+12/1/2017/,Tracy King (Sirius)/,Wisdom from the Mountaintop
+12/1/2017/,Ronnie Thomas (Werner)/,Special Spaces
+12/1/2017/,Kevin Chen/,Pathfinding and A*
+1/11/2019/,Pope & Taylor/,Connectaha
+1/25/2019/,Aaron Gilliland/,Security Plus (SYS-501) CompTIA Exam
+3/23/2018/,Ed Snodgrass/,Introducing Example Mapping
+3/23/2018/,Nate Taylor/,Don't DRY Your Tests
+3/23/2018/,Michael Cudaback/,Automated testing on DL
+3/23/2018/,Roger Miller/,https://cucumber.io/blog/2015/12/08/example-mapping-introduction
+3/24/2017/,Sam Snyder/,Getting Started with Azure App Service
+3/24/2017/,Ed Snodgrass/,Getting started with Gherkin, Cucumber, and Protractor
+3/24/2017/,Cheri Hung/,Data Science - iPython Notebook and python
+4/19/2019/,Kathy Anderson/,From beer money to the White House, KIA's journey running an international nonprofit in college
+4/19/2019/,Chris Kollars/,Not sure of the topic yet
+4/19/2019/,Mike Schoch/,My Journey from Designer to Developer (So Far)
+4/19/2019/,Thorin Butler/,Lost in Translation
+8/23/2019/,matthew mixan/,Apollo 11: The Real Details
+8/23/2019/,Joe Aulner/,The Super Easy, Super Accessible Drag & Drop Component
+8/23/2019/,Lynn Griffis/,Looping with T1D
+8/23/2019/,JDRF/,Jill Rotella
+6/16/2017/,Fake Brandon/,runjs
+4/17/2020/,Andrew Sharp/,Intro to Quantum Mechanics
+4/17/2020/,Dan Svoboda/,I am a SPARTAN!
+4/17/2020/,Dan Svoboda/,I am a SPARTAN!
+4/17/2020/,Lucas Duman/,My Journey With Intermittent Fasting
+5/3/2019/,Sam Wilken/,How To Get Out of A Lightning Talk
+5/3/2019/,Matthew Mixan/,Software Engineer 101: Gathering Requirements
+5/3/2019/,Steve Miller/,Confidence
+5/3/2019/,Thorin Butler/,Duh
+4/5/2019/,Brandon McAllister/,Pomodoros
+1/13/2017/,Evan Williams/,Pug (formerly Jade)
+1/13/2017/,Charlie Koster/,Fuzz Testing: How to write 500 tests in 5 minutes
+1/13/2017/,Art "Texas Ranger" Doler/,Grit - Good for Gizzards, but Perfect for Perseverance
+1/13/2017/,Kathy What-Does-The-I-Stand-For Andersen/,One Year of Ship-It Days Examined
+4/16/2021/,Mike Macaulay/,Breath
+4/16/2021/,Brandon Suponchick/,What to do with carry over?
+3/10/2017/,Charlie Koster/,Hillarious Markov Chains
+3/10/2017/,Matthew Mixan/,Neural Networks Fun (working title)
+4/6/2018/,Brady Jacobsen/,TDEEs & Fork Putdowns
+4/6/2018/,Mandi Wooledge/,Why focus on health and wellness
+4/6/2018/,Jeren Hicks/,A Journey through Keto
+4/6/2018/,Andrew Wirick/,Gorillas and Protein: An idiot's guide to plant based nutrition.
+10/1/2021/,Suzanne Macaulay/,How to pick a tree for your property
+10/1/2021/,Suzanne Macaulay/,How to pick a tree for your property part 2
+10/1/2021/,Mike Macaulay/,How Evolution might really happen
+10/1/2021/,Mike Macaulay/,How evolution might really happen (part 2)
+8/10/2018/,Leah Sveen/,The Arbor Day Foundation
+8/10/2018/,SupBra/,Why I Write Stupid Code (And You Should Too)
+8/10/2018/,SupBra/,Why I Write Stupid Code (And You Should Too) Part II
+8/10/2018/,Charlie Koster/,What Mathematicians can teach us about solving hard problems
+11/30/2018/,Kristopher Binder/,Creating a Component Guide using Lerna, Yarn Workspaces, and a Monorepo
+11/30/2018/,Nick Wenner/,My Experiences with CircleCI
+11/30/2018/,Jeren Hicks/,Prehistoric Marine Reptiles: Life and Evolution
+2/22/2019/,Jeren Hicks/,Paleontology Review 2018
+2/22/2019/,Steve Miller/,Value
+2/22/2019/,Josh Voils/,COPs and Non-Darwinian Genetic Algorithms
+2/22/2019/,Jacob Monono/,Dew Point
+4/20/2018/,Micah Yost/,Midland Code Academy
+4/20/2018/,Tristen with an "e"/,Processing Queues with AWS ECS
+4/20/2018/,Kristopher Binder/,React Native 101
+4/20/2018/,Matthew Mixan/,Mobile releases with Expo - The new hottness
+4/21/2017/,Matt Ober/,CRISPR (It's more genetic engineering stuff)
+4/21/2017/,Matt Ober/,Possible continuation of CRISPR
+4/21/2017/,Even/,Angular Dynamic Modules
+4/21/2017/,Fake Brandon/,#whatsInYourBundle
+10/2/2020/,Mike Macaualy/,Would anyone like to help Habitat for Humanity?
+10/15/2021/,Josh Voils/,Keeping an Engineering Journal
+10/15/2021/,Brandon McAllister/,Creating your own URL shortener
+10/15/2021/,Jeremy Glasser/,Who wants to be a millionaire (Part 2)?
+10/15/2021/,Kurt Bullis/,Our Lady of Guadalupe
+12/13/2019/,Jeren Hicks/,10 more things...
+12/13/2019/,Julia Jackson/,10 Things 
+12/13/2019/,Jeremy Capello/,10 Things
+12/13/2019/,Melanie Krohn/,10 Things You Don't Know About Me
+5/1/2020/,Melissa Creger/,BD Deep Dive
+5/1/2020/,Melissa Creger/,BD Deep Dive
+5/1/2020/,Nate Taylor/,Talking to Customers - An Engineer's perspective
+5/1/2020/,Nate Taylor/,Talking to Customers - An Engineer's Perspective
+2/21/2020/,Penny/,Penny Deep Dive
+2/21/2020/,Penny/,Penny Deep Dive
+2/21/2020/,Penny/,Penny Deep Dive
+2/21/2020/,Penny/,Penny Deep Dive
+12/11/2020/,Brandon McAllister and Nick Wenner/,Learning Clubs
+12/11/2020/,Brandon McAllister and Nick Wenner/,Learning Clubs
+10/29/2021/,Nick Wilson/,How to read the Bible
+10/29/2021/,Sarah Nolasco/,The Bombastic Life of Jack Parsons
+10/29/2021/,Josh Voils/,Databases 2xx: Window Functions
+12/24/2021/,Nothing, xmas/,Nothing, xmas
+12/24/2021/,Nothing, xmas/,Nothing, xmas
+12/24/2021/,Nothing, xmas/,Nothing, xmas
+12/24/2021/,Nothing, xmas/,Nothing, xmas
+8/7/2020/,Chris Kollars/,Beginners guide to ASL (American Sign Language)
+8/7/2020/,Julia Jackson/,Our Mission
+8/7/2020/,Cade Wolcott/,Key Definitions from "How To Be An Antiracist" by Ibram X. Kendi
+8/7/2020/,Mike Schoch/,Breaking Down Systemic Racism
+7/9/2021/,Mike Macaulay/,Async vs Sync
+7/9/2021/,Jerry Koske/,Development vs Building
+7/9/2021/,Mike/,Mike vs Jerry
+7/9/2021/,Brandon Suponchick/,What's the Deal with the Well Architected Framework
+9/6/2019/,Various People/,Topics from a Hat
+9/6/2019/,Various People/,Topics from a Hat
+9/6/2019/,Various People/,Topics from a Hat
+9/6/2019/,Various People/,Topics from a Hat
+3/6/2020/,Jeren Hicks/,What are Lightning Talks
+3/6/2020/,Mark Lucas/,Technical Analysis (TA) - An Alternative View on Markets and Investing
+3/6/2020/,Mike Macaulay/,Cloud Data Prep
+9/4/2020/,Samantha Wilson/,Let's Fix your Broken iPhone Screen
+3/4/2022/,Steve Miller/,Uncomfortable
+2/8/2019/,Matt Hoover/,Time Well Spent? Insights from tracking 1600 hours on the computer in 2018
+2/8/2019/,Dr. Cary Wolbers/,Down the Twitter: Using social media to approximate public opinion
+2/8/2019/,Dr. Dusty White/,When to use Data Science
+2/8/2019/,Esin Ozcandarli/,Introduction to Tableau
+3/22/2019/,Mandi and Ted/,Avoid Ship Wreck
+3/22/2019/,Mandi and Ted, Decision Logic/,Avoid Ship Wreck-continued
+6/29/2018/,Andrea Patterson/,Scaling Implementation @ Decision Logic
+6/29/2018/,Matt Ober/,BlockEra - My experience so far
+6/29/2018/,Jeren Hicks/,Your Dinosaurs Are Cooler Than You Thought 2 : Electric Barapasaurus
+10/4/2019/,Molly Misek/,How French Canada taught me to be kind
+10/4/2019/,Evan Johnston/,Trained to complete my longest ever trail race
+10/4/2019/,Mandi Wooledge/,Road Trip
+10/4/2019/,Jeremy Glasser/,WIP
+4/7/2017/,Kathy, Jerry, Nate/,Speaker Series Brief: "No Estimates" and "Complexity Outside the Code"
+4/7/2017/,Mike M/,Your website is vulnerable!
+10/6/2017/,Matthew Mixan/,Unity for Noobs
+10/6/2017/,Dustin Horne/,Using Mixan's Unity for Noobs to Build AR with HoloLens
+10/6/2017/,Lindsay Beiting/,Project Board
+10/6/2017/,Sara Hanlon/,Aviture Commercial Client Personas
+4/30/2021/,Mike Macaulay/,Remembering things better
+4/30/2021/,Ed Snodgrass/,Deliberate Discovery
+4/30/2021/,Mike Macaulay/,Remembering Things Better Part 2
+4/30/2021/,Steve Miller/,Value Part 2
+5/28/2021/,Art "The Presenter" Doler/,3 Myths (and a Small Truth) About Public Speaking
+5/28/2021/,Jeren Hicks/,Mystery
+5/28/2021/,Jeren Hicks/,Mystery
+10/5/2018/,Art "The Lost" Doler/,What to Do When You Don't Know What to Do
+10/5/2018/,Nick Wenner/,Systematic Approach to Breaking Down Problems
+10/5/2018/,Heath Carranza/,Maximize Your Productivity: 6 Time Management Tips
+10/5/2018/,Josh Voils/,Linear Programming
+5/18/2018/,JT Seger (Lifeloop)/,Sharing Code between Mobile and Web with React
+5/18/2018/,Mitchel Pigsley/,Transitioning to Azure
+5/18/2018/,Amy & Phil (Lifeloop Co-Founders)/,What's the latest with Lifeloop?
+5/18/2018/,Amy & Phil (Lifeloop Co-Founders)/,What's the Latest with Lifeloop?
+11/26/2021/,No one/,No talks, Thanksgiving
+11/26/2021/,no one/,No Talks, Thankgiving
+11/26/2021/,No one/,No Talks, Thanksgiving
+11/26/2021/,No one/,No Talks, Thanksgiving
+4/2/2021/,Marc Costanzo/,Marc's Marceting Lightning Round
+4/2/2021/,Mary Stanton/,TBD
+4/2/2021/,Justin Sandoval/,Lets Automate it
+4/2/2021/,Lindsay Scarpello/,Leveling Up Lead Gen by Leveraging Leadership & Longtail: a ⚡️ Lab with Lindsay
+5/4/2018/,Kristopher Binder/,First we had html in our js, now you want css in there too?
+5/4/2018/,Jerry Koske/,Why don't they "Get It"?
+5/4/2018/,Jeren Hicks/,Dinosaurs are cooler than you thought
+6/28/2019/,Kizzate Whizzite/,"Not Your Momma's Workplace"
+6/28/2019/,Evan Johnston/,Want to “run” really far?
+6/28/2019/,Josh Voils/,Going Through My Dad's Stuff: A Post Mortem
+2/19/2021/,Michael Schoch/,How I got myself automatically signed up for a Lightning Talk
+2/19/2021/,Jeremy Glasser/,ML, Computer Vision, something something
+2/19/2021/,Andrew Soden/,Citizen Science
+3/19/2021/,Jerry Koske/,Career Development at Aviture... and beyond.
+3/19/2021/,Nick Wilson/,Emacs: What is it and what can it do?
+3/19/2021/,Jeremy Glasser/,TBD
+11/16/2018/,Matthew Mixan/,Become a better developer, play Factorio
+11/16/2018/,Brandon S, Joel E, Heath C/,CSG - What We Do Well
+6/14/2019/,Mandi and Tony/,Wine 101: SPEEDRUN
+6/14/2019/,Mandi and Tony/,Wine 204: Winemaking and Nature
+6/14/2019/,Mandi and Tony/,Wine 1010110: Memory Markers and Etiquette
+6/14/2019/,Mandi and Tony/,Wine 1D10T: Myths, NAPA Facts, Q&A
+2/10/2017/,Evan Williams/,Yarn
+2/10/2017/,Greg Thompson/,TBD/Accessibility
+2/10/2017/,Kate White/,What's up with Third Space?
+2/10/2017/,Nate Taylor/,Everything I Need to Know About Debugging I Learned in Elementary Physics
+11/1/2019/,Jerry Koske/,War on Bureaucracy
+11/1/2019/,Jeren Hicks/,10 things you didn't know about me
+11/1/2019/,Brandon McAllister/,Personal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

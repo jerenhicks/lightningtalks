@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wkTC9cmI/ThUtn8im6/1PsnSS0X3Wa3sNRkeg4kNOjL3mebq5secasHDJwzecgH7bNwHzO8BgrPAoX1SEGbchw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arcti\\Desktop\\neolightningtalks\\neolightningtalks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arcti\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
