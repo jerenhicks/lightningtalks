@@ -31,7 +31,7 @@ namespace lightningtalks
                         output.Add(slot.getOutputString(individualDay.getStartDateTimeObj(), false));
                     }
                 }
-                await File.WriteAllLinesAsync("lightningtalkoutput.txt", output.ToArray());
+                File.WriteAllLines("lightningtalkoutput.txt", output.ToArray());
             } catch (Exception e) {
                 Console.WriteLine("There was an error: " + e);
             }
