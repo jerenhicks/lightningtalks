@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Collections;
 public class TalkDay {
     public string id { get; set; }
     public Slot slot1 { get; set; }
@@ -30,5 +31,4 @@ public class TalkDay {
         }
         return slots;
     }
-
 }

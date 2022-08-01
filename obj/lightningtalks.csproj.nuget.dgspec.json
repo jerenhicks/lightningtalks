@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arcti\\Desktop\\neolightningtalks\\lightningtalks.csproj": {}
+    "C:\\Users\\arcti\\Documents\\lightningtalks\\lightningtalks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arcti\\Desktop\\neolightningtalks\\lightningtalks.csproj": {
+    "C:\\Users\\arcti\\Documents\\lightningtalks\\lightningtalks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arcti\\Desktop\\neolightningtalks\\lightningtalks.csproj",
+        "projectUniqueName": "C:\\Users\\arcti\\Documents\\lightningtalks\\lightningtalks.csproj",
         "projectName": "lightningtalks",
-        "projectPath": "C:\\Users\\arcti\\Desktop\\neolightningtalks\\lightningtalks.csproj",
+        "projectPath": "C:\\Users\\arcti\\Documents\\lightningtalks\\lightningtalks.csproj",
         "packagesPath": "C:\\Users\\arcti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arcti\\Desktop\\neolightningtalks\\obj\\",
+        "outputPath": "C:\\Users\\arcti\\Documents\\lightningtalks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arcti\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -26,12 +26,16 @@ namespace lightningtalks
                 string contentString = await response.Content.ReadAsStringAsync();
                 dynamic parsedJson = JsonConvert.DeserializeObject<LightningTalks>(contentString);
                 List<string> output = new List<string>();
-                foreach (var individualDay in parsedJson.items) {
+
+                var talkDaysArray = parsedJson.items.ToArray();
+                Array.Sort(talkDaysArray, new TalkDayComparer());
+
+                foreach (var individualDay in talkDaysArray) {
                     foreach(var slot in individualDay.nonNullSlots()) {
                         output.Add(slot.getOutputString(individualDay.getStartDateTimeObj(), false));
                     }
                 }
-                File.WriteAllLines("lightningtalkoutput.txt", output.ToArray());
+                File.WriteAllLines("output/lightningtalkoutput.txt", output.ToArray());
             } catch (Exception e) {
                 Console.WriteLine("There was an error: " + e);
             }

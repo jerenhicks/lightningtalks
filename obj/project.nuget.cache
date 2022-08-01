@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S3PFR6JYA7h6vDNhLU0SIQM1TOXMP317caS3wXRptyIRRMoy/Hdb/UHfviodxhjryw/fU+1VV3tY5B7CNpnNeg==",
+  "dgSpecHash": "KKPIViFNX4Sey2z3TTp+683G4PeQh0mxRGBZPqV6c6/3uDAB6Rk3GLfqUvyPnNMtCE47yXO94A50ID9noSVtNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arcti\\Desktop\\neolightningtalks\\lightningtalks.csproj",
+  "projectFilePath": "C:\\Users\\arcti\\Documents\\lightningtalks\\lightningtalks.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arcti\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
